@@ -24,7 +24,7 @@ A modern web application for browsing, booking, and managing turf arenas in your
 ## Project Structure
 
 ```
-shahriyarrodhro-turf-blitz-arena-pro/
+Pitchside/
 ├── components.json 
 ├── eslint.config.js
 ├── index.html
